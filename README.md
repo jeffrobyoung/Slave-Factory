@@ -1,2 +1,2 @@
 # Slave-Factory
-Dehumanization of Knox's Tract
+Dehumanization of Knox's Tract- New
